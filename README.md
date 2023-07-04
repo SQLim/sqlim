@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on writing code for physics experiments
+- 🌱 I’m currently learning how to use GitHub
+- 🤔 I’m looking for help with GitHub in general
+
 <!--
 **SQLim/sqlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
