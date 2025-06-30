@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on writing code for physics experiments
-- 🌱 I’m currently learning how to use GitHub
-- 🤔 I’m looking for help with GitHub in general
+- 😄 I'm a physics researcher based in Melbourne, Australia. 
+- 🔭 I’m currently working on some Python code that will perform quantum physics experiments in diamond and analyze experimental data. 
 
 <!--
 **SQLim/sqlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
