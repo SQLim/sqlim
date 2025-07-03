@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I'm a physics researcher based in Melbourne, Australia. 
-- 🔭 I’m currently working on some Python code that will perform quantum physics experiments in diamond and analyze experimental data. 
+- 🔭 I’m currently working on Python code for quantum physics experiments and for analyzing experimental data. 
 
 <!--
 **SQLim/sqlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
